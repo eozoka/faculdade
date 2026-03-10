@@ -19,7 +19,7 @@ Manter tudo organizado em um só lugar e facilitar:
 ## ⚠️ Observações
 - Os arquivos são de uso **educacional**
 - Alguns conteúdos podem estar incompletos ou em desenvolvimento
-- Organização pode mudar conforme o semestre avança 😅
+- Organização pode mudar conforme o semestre avança
 
 ---
 
