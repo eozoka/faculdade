@@ -1,8 +1,8 @@
-# 📚 Arquivos da Faculdade
+#  Arquivos da Faculdade
 
 Este repositório contém **apenas arquivos relacionados à faculdade**, usados para estudos, trabalhos, exercícios e atividades acadêmicas.
 
-## 🗂️ Conteúdo
+##  Conteúdo
 Os arquivos aqui podem incluir:
 - Trabalhos e relatórios
 - Exercícios e listas
@@ -10,17 +10,17 @@ Os arquivos aqui podem incluir:
 - Códigos feitos para matérias
 - PDFs e documentos de apoio
 
-## 🎯 Objetivo
+##  Objetivo
 Manter tudo organizado em um só lugar e facilitar:
 - Revisões
 - Backup dos arquivos
 - Acompanhamento da evolução nos estudos
 
-## ⚠️ Observações
+##  Observações
 - Os arquivos são de uso **educacional**
 - Alguns conteúdos podem estar incompletos ou em desenvolvimento
 - Organização pode mudar conforme o semestre avança
 
 ---
 
-✍️ Repositório mantido para fins acadêmicos.
+ Repositório mantido para fins acadêmicos.
